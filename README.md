@@ -1,33 +1,52 @@
 # Hi there! 👋 I'm Saeed Taheri Fard
 
-Welcome to my repository! I'm a full-stack developer with over 10 years of programming experience, proficient in the following technologies:
+Welcome to my GitHub profile! I'm a passionate full-stack developer with over 10 years of experience in creating impactful software solutions. Here is a glance at the technologies I'm proficient in:
 
-- **Frontend:**
-  - React
-  - Next.js
+## 🚀 Technologies & Tools
 
-- **Backend:**
-  - Node.js
-  - Laravel
-  - Golang
+### Frontend:
+- **React**
+- **Next.js**
+- **React Query**
+- **Material-UI (MUI)**
+- **Zustand**
 
-## About Me
+### Backend:
+- **Node.js**
+- **Laravel**
+- **Golang**
 
-I have been working in the field of programming for over 10 years and am passionate about learning new technologies. My focus is on creating software that provides real value to users and enhances the user experience.
+### Databases:
+- **MySQL**
+- **PostgreSQL**
 
-## Projects
+### DevOps:
+- **Docker**
+- **Docker Compose**
+- **Kubernetes**
 
-Here are a few examples of projects I've worked on:
+### Other Tools & Technologies:
+- **Version Control:** Git, GitHub
+- **CI/CD:** Jenkins, GitHub Actions
 
-1. **[Project Name 1](Project Link 1):** A brief description of the project.
-2. **[Project Name 2](Project Link 2):** A brief description of the project.
-3. **[Project Name 3](Project Link 3):** A brief description of the project.
+## 📚 About Me
 
-## Contact Me
+With a strong enthusiasm for continuous learning and adopting new technologies, I strive to build web applications that enhance user experience and add real value. I am always eager to learn and collaborate on innovative projects.
 
-If you're interested in collaborating or have any questions, feel free to get in touch:
+## 🌟 Featured Projects
 
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [profile-link](https://www.linkedin.com)
+Here are some of the projects I've worked on:
 
-I would love to hear your thoughts and feedback on my projects!
+1. **[ISACO](https://isaco.ir):** The official platform for Iran Khodro's sales and after-sales services representatives.
+2. **[Dosharm](https://dosharm.com):** A luxury home appliances e-commerce site.
+3. **[eKeepa](https://ekeepa.co):** A marketplace for escape room games.
+4. **[Jahangas](https://jahangas.com):** The official site for a home appliances manufacturing company.
+
+## 📫 Contact Me
+
+Feel free to reach out if you want to collaborate or simply have a chat!
+
+- **Email:** [saeidtf@gmail.com](mailto:saeidtf@gmail.com)
+- **LinkedIn:** [Rouholla (Saeed) Taherifard](https://www.linkedin.com/in/rouholla-saeed-taherifard-82b03475/)
+
+Looking forward to connecting with you!
