@@ -1,52 +1,31 @@
-# Hi there! 👋 I'm Saeed Taheri Fard
+# Hi, I'm Saeed Taheri Fard 👋
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with over 10 years of experience in creating impactful software solutions. Here is a glance at the technologies I'm proficient in:
+I'm a full-stack developer with **10+ years of experience** building web applications and software solutions. I enjoy learning new technologies and creating products that provide a useful, user-friendly experience.
 
-## 🚀 Technologies & Tools
+## Areas of Focus
 
-### Backend:
-- **Node.js**
-- **Laravel**
-- **Golang**
+- **Backend:** Node.js, Laravel, Go
+- **Frontend:** React, Next.js, React Query, Material UI (MUI), Zustand
+- **Databases:** MySQL, PostgreSQL
+- **DevOps:** Docker, Docker Compose, Kubernetes
+- **Tools & workflows:** Git, GitHub, Jenkins, GitHub Actions
 
-### Frontend:
-- **React**
-- **Next.js**
-- **React Query**
-- **Material-UI (MUI)**
-- **Zustand**
+## Featured Projects
 
-### Databases:
-- **MySQL**
-- **PostgreSQL**
+| Project | Description |
+| --- | --- |
+| [ISACO](https://isaco.ir) | Platform for Iran Khodro sales and after-sales service representatives. |
+| [Dosharm](https://dosharm.com) | Luxury home appliances e-commerce site. |
+| [eKeepa](https://ekeepa.co) | Marketplace for escape room games. |
+| [Jahangas](https://jahangas.com) | Website for a home appliances manufacturing company. |
 
-### DevOps:
-- **Docker**
-- **Docker Compose**
-- **Kubernetes**
+## About Me
 
-### Other Tools & Technologies:
-- **Version Control:** Git, GitHub
-- **CI/CD:** Jenkins, GitHub Actions
+I’m enthusiastic about continuous learning and adopting technologies that help solve real problems. My experience spans backend and frontend development, databases, and deployment tooling. I value collaboration and enjoy building web applications that enhance the user experience and deliver practical value.
 
-## 📚 About Me
-
-With a strong enthusiasm for continuous learning and adopting new technologies, I strive to build web applications that enhance user experience and add real value. I am always eager to learn and collaborate on innovative projects.
-
-## 🌟 Featured Projects
-
-Here are some of the projects I've worked on:
-
-1. **[ISACO](https://isaco.ir):** The official platform for Iran Khodro's sales and after-sales services representatives.
-2. **[Dosharm](https://dosharm.com):** A luxury home appliances e-commerce site.
-3. **[eKeepa](https://ekeepa.co):** A marketplace for escape room games.
-4. **[Jahangas](https://jahangas.com):** The official site for a home appliances manufacturing company.
-
-## 📫 Contact Me
-
-Feel free to reach out if you want to collaborate or simply have a chat!
+## Get in Touch
 
 - **Email:** [saeidtf@gmail.com](mailto:saeidtf@gmail.com)
 - **LinkedIn:** [Rouholla (Saeed) Taherifard](https://www.linkedin.com/in/rouholla-saeed-taherifard-82b03475/)
 
-Looking forward to connecting with you!
+Feel free to reach out to discuss a project or collaboration.
