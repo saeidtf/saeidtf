@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** | Full-Stack & Flutter Developer | 10+ Years of Experience
 
-I design and build reliable, user-friendly web and mobile applications. I enjoy turning real-world needs into practical digital products, from backend systems and web interfaces to cross-platform mobile apps.
+I design and build reliable, user-friendly web and mobile applications. I enjoy turning real-world needs into practical digital products, from backend systems and web interfaces to cross-platform m[...]
 
 ## Technical Skills
 
@@ -21,6 +21,7 @@ I design and build reliable, user-friendly web and mobile applications. I enjoy 
 - [Habity](https://cafebazaar.ir/app/ir.habity.app) — Daily habit tracking app
 - [BoardBox](https://cafebazaar.ir/app/ir.persiangameclub.persian_game_club) — Persian games including Hokm, backgammon, and chess
 - [MetroYab](https://cafebazaar.ir/app/ir.metroyar.metroyar) — Tehran Metro map and route planning app
+- [Kiddora](https://kiddora.ir/) — Preschool education with games
 
 ## Contact
 
