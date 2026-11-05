@@ -4,17 +4,17 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with over 10
 
 ## 🚀 Technologies & Tools
 
+### Backend:
+- **Node.js**
+- **Laravel**
+- **Golang**
+
 ### Frontend:
 - **React**
 - **Next.js**
 - **React Query**
 - **Material-UI (MUI)**
 - **Zustand**
-
-### Backend:
-- **Node.js**
-- **Laravel**
-- **Golang**
 
 ### Databases:
 - **MySQL**
